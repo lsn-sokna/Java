@@ -24,7 +24,7 @@ public class Exercise6_24 {
    * is increasing. Defind new suit as string which string suit equals to 
    * the index / 13 elements of suits. and rank equals to the remainder of 
    * index / 13 elements of ranks. Finally, it prints rank + " of " + suit.
-   * After it loops till count is 4, it will print the number of picks on the 
+   * After it loops till count is equal 3, it will print the number of picks on the 
    * screen.
    */
   public static void main(String[] args) {
